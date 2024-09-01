@@ -1,1 +1,2 @@
 # Simple-Calculator
+The Simple Calculator is a basic C++ program designed to perform fundamental arithmetic operations: addition, subtraction, multiplication, and division. It also provides functionalities to clear the current results, cancel the last operation, and handle division by zero by defaulting to 1. The program demonstrates how to manage and track operations using a class-based approach in C++.
